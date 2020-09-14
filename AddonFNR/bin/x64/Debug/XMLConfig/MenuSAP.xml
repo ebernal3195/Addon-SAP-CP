@@ -1,0 +1,15 @@
+﻿<Application>
+  <Menus>
+    <action type="add">
+      <!--<Menu Checked="0" Enabled="1" FatherUID="43535" String="Pre-contratos" Type="1"  UniqueID="frmPreContratos" Position="1"></Menu>-->
+      <Menu Checked="0" Enabled="1" FatherUID="43535" String="Traspasos" Type="1"  UniqueID="frmTraspasos" Position="2"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="43535" String="Arqueos" Type="1"  UniqueID="frmArqueos" Position="3"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="1760" String="Corte de solicitudes - Oficinas a Contratos" Type="1"  UniqueID="frmReporteOficinasContratos" Position="1"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="3328" String="Comisiones" Type="2"  UniqueID="Comisiones" Position="16"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Comisiones" String="Detalle comisiones" Type="1"  UniqueID="frmDetalleComisiones" Position="1"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Comisiones" String="Comisiones cobradores" Type="1"  UniqueID="frmComisionesCobradores" Position="2"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Comisiones" String="Calculo de comisiones" Type="1"  UniqueID="frmCalculoComisiones" Position="2"></Menu>
+    </action>
+  </Menus>
+</Application>
+

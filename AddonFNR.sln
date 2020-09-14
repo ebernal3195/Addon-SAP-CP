@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddonFNR", "AddonFNR\AddonFNR.csproj", "{CB046BEA-4843-45D3-A895-35003E033DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionAddon", "ConexionAddon\ConexionAddon.csproj", "{5E271796-D6B0-401B-9094-163059F19CE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencias", "Dependencias", "{CFC42D79-751D-4ADC-9C84-26857971FAED}"
+	ProjectSection(SolutionItems) = preProject
+		AddonFNR\Dependencias\CrystalDecisions.CrystalReports.Design.dll = AddonFNR\Dependencias\CrystalDecisions.CrystalReports.Design.dll
+		AddonFNR\Dependencias\CrystalDecisions.CrystalReports.Engine.dll = AddonFNR\Dependencias\CrystalDecisions.CrystalReports.Engine.dll
+		AddonFNR\Dependencias\CrystalDecisions.ReportSource.dll = AddonFNR\Dependencias\CrystalDecisions.ReportSource.dll
+		AddonFNR\Dependencias\CrystalDecisions.Shared.dll = AddonFNR\Dependencias\CrystalDecisions.Shared.dll
+		AddonFNR\Dependencias\RfcFacil.dll = AddonFNR\Dependencias\RfcFacil.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Debug|x64.ActiveCfg = Debug|x64
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Debug|x64.Build.0 = Debug|x64
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Release|x64.ActiveCfg = Release|x64
+		{CB046BEA-4843-45D3-A895-35003E033DA6}.Release|x64.Build.0 = Release|x64
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Debug|x64.ActiveCfg = Debug|x64
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Debug|x64.Build.0 = Debug|x64
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Release|x64.ActiveCfg = Release|x64
+		{5E271796-D6B0-401B-9094-163059F19CE4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

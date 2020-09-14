@@ -1,0 +1,33 @@
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Forms\frmArqueos.srf
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Forms\frmTraspasos.srf
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Forms\frmCalculoComisiones.srf
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Forms\frmComisionesCobradores.srf
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Forms\frmDetalleComisiones.srf
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Forms\frmReporteOficinasContratos.srf
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Forms\frmPreContratos.srf
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Scripts\SAP_CP_CorteOficinasContratos.sql
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\XMLConfig\ConfiguracionXML.xml
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\XMLConfig\MenuSAP.xml
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\Reportes\ReporteCorteSolicitudes.rpt
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\App.config
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\AddonFNR.exe.config
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\AddonFNR.exe
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\AddonFNR.pdb
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\ConexionAddon.dll
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\RfcFacil.dll
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\bin\Debug\ConexionAddon.pdb
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\AddonFNR.csprojResolveAssemblyReference.cache
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\Interop.SAPbobsCOM.dll
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\Interop.SAPbouiCOM.dll
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\AddonFNR.csproj.ResolveComReference.cache
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\AddonFNR.Properties.Resources.resources
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\AddonFNR.csproj.GenerateResource.Cache
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\AddonFNR.exe
+D:\TEAM FUNDATION\ADDON_SAPCP\Codigo SAP 9.2\AddonFNR\obj\Debug\AddonFNR.pdb
+D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\bin\Debug\AddonFNR.exe.config
+D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\Interop.SAPbobsCOM.dll
+D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\Interop.SAPbouiCOM.dll
+D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\AddonFNR.csproj.ResolveComReference.cache
+D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\AddonFNR.exe
+D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\AddonFNR.pdb

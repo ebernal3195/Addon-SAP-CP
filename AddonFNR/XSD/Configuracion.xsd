@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2010 (http://www.altova.com) by LAPSAPJP (PABS) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="CONFIGURACION">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="PBD">
+					<xs:complexType>
+						<xs:attribute name="PBD"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="SOCIOSNEGOCIOS">
+					<xs:complexType>
+						<xs:attribute name="CamposSocioNegocios"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="BONO">
+					<xs:complexType>
+						<xs:attribute name="CuentaDebitoBono"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="INVERSIONINICIAL">
+					<xs:complexType>
+						<xs:attribute name="CuentaInversionInicial"/>
+					</xs:complexType>
+				</xs:element>
+        <xs:element name="SERIECONTRATOS">
+          <xs:complexType>
+            <xs:attribute name="SerieContratosAutomatica"/>
+          </xs:complexType>
+        </xs:element>
+				<xs:element name="CUENTASTRASPASOS">
+					<xs:complexType>
+						<xs:attribute name="CuentaApoyoCooperativa"/>
+						<xs:attribute name="CuentaCooperativaApoyo"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

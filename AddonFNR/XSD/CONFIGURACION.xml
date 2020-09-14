@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONFIGURACION>
+  <PBD PBD="Ent3rpr1s3*" />
+  <SOCIOSNEGOCIOS CamposSocioNegocios="U_TraspasoRel,U_NumArt_,U_Dsciption,U_InvIncial,U_Comision,U_Papeleria,U_Importe_Recibido,U_Excedente_InvIni,U_Bono,U_CodigoActivacion,U_CodigoPromotor,U_NomProm,U_PrefijoPlan,U_SolicitudInt,U_Esquema_pago" />
+  <BONO CuentaDebitoBono="_SYS00000005387" />
+  <INVERSIONINICIAL CuentaInversionInicial="_SYS00000005387" />
+  <SERIECONTRATOS SerieContratosAutomatica="Y" />
+  <CUENTASTRASPASOS CuentaApoyoCooperativa="_SYS00000005387" CuentaCooperativaApoyo="" />  
+</CONFIGURACION>
