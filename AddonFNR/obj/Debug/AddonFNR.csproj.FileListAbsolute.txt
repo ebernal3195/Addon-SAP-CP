@@ -31,3 +31,34 @@ D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\Interop.S
 D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\AddonFNR.csproj.ResolveComReference.cache
 D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\AddonFNR.exe
 D:\TEAM FUNDATION\ENRIQUE BERNAL\Codigo SAP 9.2 x64\AddonFNR\obj\Debug\AddonFNR.pdb
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Forms\frmArqueos.srf
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Forms\frmTraspasos.srf
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Forms\frmCalculoComisiones.srf
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Forms\frmComisionesCobradores.srf
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Forms\frmDetalleComisiones.srf
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Forms\frmReporteOficinasContratos.srf
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Forms\frmPreContratos.srf
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Scripts\SAP_CP_CorteOficinasContratos.sql
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\XMLConfig\ConfiguracionXML.xml
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\XMLConfig\MenuSAP.xml
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\Reportes\ReporteCorteSolicitudes.rpt
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\App.config
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\AddonFNR.exe.config
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\AddonFNR.exe
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\AddonFNR.pdb
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\ConexionAddon.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\CrystalDecisions.Shared.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\RfcFacil.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\bin\Debug\ConexionAddon.pdb
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\AddonFNR.csprojAssemblyReference.cache
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\Interop.SAPbobsCOM.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\Interop.SAPbouiCOM.dll
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\AddonFNR.csproj.ResolveComReference.cache
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\AddonFNR.Properties.Resources.resources
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\AddonFNR.csproj.GenerateResource.cache
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\AddonFNR.csproj.CopyComplete
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\AddonFNR.exe
+D:\ProyectosGIT\P-0004-Addon SAPCP\AddonFNR\obj\Debug\AddonFNR.pdb

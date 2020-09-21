@@ -435,6 +435,7 @@ namespace AddonFNR.BL
         {
             try
             {
+
                 SAPbouiCOM.ChooseFromListCollection oCFLs = null;
                 SAPbouiCOM.Conditions oCons = null;
                 SAPbouiCOM.Condition oCon = null;
@@ -459,8 +460,16 @@ namespace AddonFNR.BL
                 oCon.Relationship = SAPbouiCOM.BoConditionRelationship.cr_AND;
                 oCon = oCons.Add();
                 oCon.Alias = "GroupCode";
-                oCon.Operation = SAPbouiCOM.BoConditionOperation.co_EQUAL;
-                oCon.CondVal = "100";
+                if (_Application.Company.Name == "TAMPICO PROGRAMA DE APOYO")
+                {
+                    oCon.Operation = SAPbouiCOM.BoConditionOperation.co_EQUAL;
+                    oCon.CondVal = "102";
+                }
+                else
+                {
+                    oCon.Operation = SAPbouiCOM.BoConditionOperation.co_EQUAL;
+                    oCon.CondVal = "100";
+                }
                 oCon.Relationship = SAPbouiCOM.BoConditionRelationship.cr_AND;
                 oCon = oCons.Add();
                 oCon.Alias = "balance";
@@ -508,8 +517,16 @@ namespace AddonFNR.BL
                 oCon.Relationship = SAPbouiCOM.BoConditionRelationship.cr_AND;
                 oCon = oCons.Add();
                 oCon.Alias = "GroupCode";
-                oCon.Operation = SAPbouiCOM.BoConditionOperation.co_EQUAL;
-                oCon.CondVal = "100";
+                if (_Application.Company.Name == "TAMPICO PROGRAMA DE APOYO")
+                {
+                    oCon.Operation = SAPbouiCOM.BoConditionOperation.co_EQUAL;
+                    oCon.CondVal = "102";
+                }
+                else
+                {
+                    oCon.Operation = SAPbouiCOM.BoConditionOperation.co_EQUAL;
+                    oCon.CondVal = "100";
+                }
                 oCon.Relationship = SAPbouiCOM.BoConditionRelationship.cr_AND;
                 oCon = oCons.Add();
                 oCon.Alias = "balance";
